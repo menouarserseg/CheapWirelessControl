@@ -1,0 +1,9 @@
+To enhance the range of the transmission place a simple copper wire on the ANT hole of the transmitter (right corner; check attached picture), and in the hole of the left bottom hole of the receiver (check attached picture)
+
+Receiver: 
+Led pin: 6
+
+Transmitter:
+Button pin: 2
+Button2 pin: 4
+
